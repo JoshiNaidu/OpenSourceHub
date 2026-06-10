@@ -3,7 +3,7 @@ name: Generate Project Catalog
 on:
   push:
     paths:
-      - "data/**"
+      - 'data/**'
 
 permissions:
   contents: write
@@ -35,4 +35,3 @@ jobs:
             git commit -m "chore: update PROJECTS.md"
             git push
           fi
-:::
