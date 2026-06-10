@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Twenty",
+        "github": "https://github.com/twentyhq/twenty",
+        "description": "Open-source CRM platform.",
+        "category": "CRM",
+        "tags": [
+            "crm"
+        ]
+    },
+    {
+        "name": "ERPNext",
+        "github": "https://github.com/frappe/erpnext",
+        "description": "Open-source ERP and CRM.",
+        "category": "CRM",
+        "tags": [
+            "erp",
+            "crm"
+        ]
+    },
+    {
+        "name": "SuiteCRM",
+        "github": "https://github.com/salesagility/SuiteCRM",
+        "description": "Customer relationship management platform.",
+        "category": "CRM",
+        "tags": [
+            "crm"
+        ]
+    }
+]

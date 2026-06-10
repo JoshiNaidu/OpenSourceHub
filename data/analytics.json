@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Plausible",
+        "github": "https://github.com/plausible/analytics",
+        "description": "Privacy-friendly web analytics.",
+        "category": "Analytics",
+        "tags": [
+            "analytics"
+        ]
+    },
+    {
+        "name": "Umami",
+        "github": "https://github.com/umami-software/umami",
+        "description": "Simple self-hosted analytics.",
+        "category": "Analytics",
+        "tags": [
+            "analytics"
+        ]
+    },
+    {
+        "name": "PostHog",
+        "github": "https://github.com/PostHog/posthog",
+        "description": "Product analytics platform.",
+        "category": "Analytics",
+        "tags": [
+            "product-analytics"
+        ]
+    }
+]

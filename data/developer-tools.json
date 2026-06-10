@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Postman",
+        "github": "https://github.com/postmanlabs",
+        "description": "API development platform.",
+        "category": "Developer Tools",
+        "tags": [
+            "api"
+        ]
+    },
+    {
+        "name": "Hoppscotch",
+        "github": "https://github.com/hoppscotch/hoppscotch",
+        "description": "Open-source API development ecosystem.",
+        "category": "Developer Tools",
+        "tags": [
+            "api",
+            "testing"
+        ]
+    },
+    {
+        "name": "Insomnia",
+        "github": "https://github.com/Kong/insomnia",
+        "description": "API design and testing tool.",
+        "category": "Developer Tools",
+        "tags": [
+            "api"
+        ]
+    },
+    {
+        "name": "Aider",
+        "github": "https://github.com/Aider-AI/aider",
+        "description": "AI pair programmer in your terminal.",
+        "category": "Developer Tools",
+        "tags": [
+            "ai",
+            "coding"
+        ]
+    },
+    {
+        "name": "OpenHands",
+        "github": "https://github.com/All-Hands-AI/OpenHands",
+        "description": "AI software development agent.",
+        "category": "Developer Tools",
+        "tags": [
+            "agent",
+            "coding"
+        ]
+    }
+]

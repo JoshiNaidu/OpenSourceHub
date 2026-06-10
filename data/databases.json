@@ -1,0 +1,47 @@
+[
+    {
+        "name": "PostgreSQL",
+        "github": "https://github.com/postgres/postgres",
+        "description": "Advanced open-source relational database.",
+        "category": "Databases",
+        "tags": [
+            "sql"
+        ]
+    },
+    {
+        "name": "Redis",
+        "github": "https://github.com/redis/redis",
+        "description": "In-memory data structure store.",
+        "category": "Databases",
+        "tags": [
+            "cache"
+        ]
+    },
+    {
+        "name": "MariaDB",
+        "github": "https://github.com/MariaDB/server",
+        "description": "Open-source relational database.",
+        "category": "Databases",
+        "tags": [
+            "sql"
+        ]
+    },
+    {
+        "name": "SurrealDB",
+        "github": "https://github.com/surrealdb/surrealdb",
+        "description": "Cloud-native database platform.",
+        "category": "Databases",
+        "tags": [
+            "nosql"
+        ]
+    },
+    {
+        "name": "Weaviate",
+        "github": "https://github.com/weaviate/weaviate",
+        "description": "Open-source vector database.",
+        "category": "Databases",
+        "tags": [
+            "vector-db"
+        ]
+    }
+]

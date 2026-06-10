@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Ollama",
+        "github": "https://github.com/ollama/ollama",
+        "description": "Run large language models locally.",
+        "category": "AI",
+        "tags": [
+            "llm",
+            "local-ai"
+        ]
+    },
+    {
+        "name": "Open WebUI",
+        "github": "https://github.com/open-webui/open-webui",
+        "description": "Self-hosted AI interface.",
+        "category": "AI",
+        "tags": [
+            "chat",
+            "llm"
+        ]
+    },
+    {
+        "name": "LangChain",
+        "github": "https://github.com/langchain-ai/langchain",
+        "description": "Framework for building LLM applications.",
+        "category": "AI",
+        "tags": [
+            "agents",
+            "rag"
+        ]
+    },
+    {
+        "name": "LlamaIndex",
+        "github": "https://github.com/run-llama/llama_index",
+        "description": "Data framework for LLM applications.",
+        "category": "AI",
+        "tags": [
+            "rag",
+            "llm"
+        ]
+    },
+    {
+        "name": "Haystack",
+        "github": "https://github.com/deepset-ai/haystack",
+        "description": "Framework for search and RAG systems.",
+        "category": "AI",
+        "tags": [
+            "rag",
+            "search"
+        ]
+    }
+]

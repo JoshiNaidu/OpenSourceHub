@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Trivy",
+        "github": "https://github.com/aquasecurity/trivy",
+        "description": "Security scanner for containers and repositories.",
+        "category": "Security",
+        "tags": [
+            "security"
+        ]
+    },
+    {
+        "name": "Vault",
+        "github": "https://github.com/hashicorp/vault",
+        "description": "Secrets and identity management.",
+        "category": "Security",
+        "tags": [
+            "secrets"
+        ]
+    },
+    {
+        "name": "Wazuh",
+        "github": "https://github.com/wazuh/wazuh",
+        "description": "Security monitoring platform.",
+        "category": "Security",
+        "tags": [
+            "monitoring"
+        ]
+    }
+]

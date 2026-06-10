@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Docker",
+        "github": "https://github.com/docker",
+        "description": "Containerization platform.",
+        "category": "DevOps",
+        "tags": [
+            "containers"
+        ]
+    },
+    {
+        "name": "Kubernetes",
+        "github": "https://github.com/kubernetes/kubernetes",
+        "description": "Container orchestration system.",
+        "category": "DevOps",
+        "tags": [
+            "orchestration"
+        ]
+    },
+    {
+        "name": "Argo CD",
+        "github": "https://github.com/argoproj/argo-cd",
+        "description": "Declarative GitOps continuous delivery tool.",
+        "category": "DevOps",
+        "tags": [
+            "gitops"
+        ]
+    }
+]

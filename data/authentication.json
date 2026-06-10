@@ -1,0 +1,48 @@
+[
+    {
+        "name": "Keycloak",
+        "github": "https://github.com/keycloak/keycloak",
+        "description": "Identity and access management solution.",
+        "category": "Authentication",
+        "tags": [
+            "oauth",
+            "sso"
+        ]
+    },
+    {
+        "name": "Authentik",
+        "github": "https://github.com/goauthentik/authentik",
+        "description": "Open-source identity provider.",
+        "category": "Authentication",
+        "tags": [
+            "sso"
+        ]
+    },
+    {
+        "name": "SuperTokens",
+        "github": "https://github.com/supertokens/supertokens-core",
+        "description": "Authentication solution for developers.",
+        "category": "Authentication",
+        "tags": [
+            "auth"
+        ]
+    },
+    {
+        "name": "Ory",
+        "github": "https://github.com/ory",
+        "description": "Identity and access management platform.",
+        "category": "Authentication",
+        "tags": [
+            "oauth"
+        ]
+    },
+    {
+        "name": "Casdoor",
+        "github": "https://github.com/casdoor/casdoor",
+        "description": "Open-source IAM and SSO platform.",
+        "category": "Authentication",
+        "tags": [
+            "sso"
+        ]
+    }
+]

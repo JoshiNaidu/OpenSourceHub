@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Payload",
+        "github": "https://github.com/payloadcms/payload",
+        "description": "Full-stack Next.js CMS.",
+        "category": "CMS",
+        "tags": [
+            "cms"
+        ]
+    },
+    {
+        "name": "Strapi",
+        "github": "https://github.com/strapi/strapi",
+        "description": "Open-source headless CMS.",
+        "category": "CMS",
+        "tags": [
+            "headless-cms"
+        ]
+    },
+    {
+        "name": "Directus",
+        "github": "https://github.com/directus/directus",
+        "description": "Instant APIs and data platform.",
+        "category": "CMS",
+        "tags": [
+            "cms",
+            "api"
+        ]
+    }
+]

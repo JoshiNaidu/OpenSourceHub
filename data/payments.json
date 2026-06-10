@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Hyperswitch",
+        "github": "https://github.com/juspay/hyperswitch",
+        "description": "Open-source payments orchestration platform.",
+        "category": "Payments",
+        "tags": [
+            "payments",
+            "fintech"
+        ]
+    },
+    {
+        "name": "Medusa",
+        "github": "https://github.com/medusajs/medusa",
+        "description": "Open-source commerce and payments platform.",
+        "category": "Payments",
+        "tags": [
+            "ecommerce",
+            "payments"
+        ]
+    }
+]

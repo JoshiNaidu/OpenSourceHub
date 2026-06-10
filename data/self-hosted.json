@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Puter",
+        "github": "https://github.com/HeyPuter/puter",
+        "description": "Internet computer and cloud OS.",
+        "category": "Self-Hosted",
+        "tags": [
+            "cloud"
+        ]
+    },
+    {
+        "name": "Nextcloud",
+        "github": "https://github.com/nextcloud/server",
+        "description": "Self-hosted productivity platform.",
+        "category": "Self-Hosted",
+        "tags": [
+            "storage"
+        ]
+    },
+    {
+        "name": "Coolify",
+        "github": "https://github.com/coollabsio/coolify",
+        "description": "Self-hosting platform alternative to Heroku.",
+        "category": "Self-Hosted",
+        "tags": [
+            "hosting"
+        ]
+    },
+    {
+        "name": "Appwrite",
+        "github": "https://github.com/appwrite/appwrite",
+        "description": "Backend server for web and mobile apps.",
+        "category": "Self-Hosted",
+        "tags": [
+            "backend"
+        ]
+    },
+    {
+        "name": "Docmost",
+        "github": "https://github.com/docmost/docmost",
+        "description": "Open-source collaborative wiki and docs platform.",
+        "category": "Self-Hosted",
+        "tags": [
+            "wiki"
+        ]
+    }
+]
