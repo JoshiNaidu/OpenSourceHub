@@ -23,26 +23,41 @@ From AI and Developer Tools to Databases, Authentication, CMS, DevOps, Self-Host
 
 ---
 
-## 📂 Categories
+## 📚 Categories
 
-* 🤖 AI & Machine Learning
-* 💻 Developer Tools
-* 🔐 Authentication
-* 🗄️ Databases
-* ☁️ DevOps & Infrastructure
-* 🌐 Web Development
-* 📦 CMS
-* 📊 Analytics
-* 💳 Payments
-* 🏢 CRM
-* 📅 Productivity
-* 🏠 Self-Hosted Apps
-* 🛡️ Security
-* 📱 Mobile Development
-* 🎮 Game Development
-* 🎓 Education
+Explore production-ready open-source software across multiple categories.
+
+| Category           | Description                                        |
+| ------------------ | -------------------------------------------------- |
+| 🤖 AI              | LLMs, AI Agents, RAG, Vector Databases, Local AI   |
+| 💻 Developer Tools | Developer productivity, APIs, IDE tools, CLI tools |
+| 🔐 Authentication  | OAuth, SSO, Identity Providers                     |
+| 🗄️ Databases      | SQL, NoSQL, Vector Databases, Caching              |
+| ☁️ DevOps          | CI/CD, Containers, Infrastructure                  |
+| 📊 Analytics       | Product Analytics, Web Analytics                   |
+| 📦 CMS             | Headless CMS, Content Platforms                    |
+| 💳 Payments        | Payment Infrastructure and Gateways                |
+| 🏢 CRM             | Customer Relationship Management                   |
+| 🛡️ Security       | Secrets Management, Scanning, Monitoring           |
+| 🏠 Self-Hosted     | Self-hosted software and platforms                 |
 
 ---
+
+## ⭐ Featured Projects
+
+| Project    | Category       | Description                              |
+| ---------- | -------------- | ---------------------------------------- |
+| Ollama     | AI             | Run large language models locally        |
+| Open WebUI | AI             | Self-hosted AI interface                 |
+| PostgreSQL | Database       | Advanced open-source relational database |
+| Redis      | Database       | In-memory data store and cache           |
+| Keycloak   | Authentication | Identity and access management           |
+| Docker     | DevOps         | Containerization platform                |
+| Kubernetes | DevOps         | Container orchestration system           |
+| Payload    | CMS            | Full-stack Next.js CMS                   |
+| Plausible  | Analytics      | Privacy-friendly web analytics           |
+| Coolify    | Self-Hosted    | Open-source deployment platform          |
+
 
 ## 📌 Project Format
 
