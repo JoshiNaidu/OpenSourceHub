@@ -1,37 +1,36 @@
 name: Generate Project Catalog
 
 on:
-  push:
-    paths:
-      - 'data/**'
+workflow_dispatch:
 
 permissions:
-  contents: write
+contents: write
 
 jobs:
-  generate:
-    runs-on: ubuntu-latest
+generate:
+runs-on: ubuntu-latest
 
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v4
+```
+steps:
+  - name: Checkout Repository
+    uses: actions/checkout@v4
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: 20
+  - name: Setup Node.js
+    uses: actions/setup-node@v4
+    with:
+      node-version: 20
 
-      - name: Generate PROJECTS.md
-        run: node scripts/generate.js
+  - name: Generate PROJECTS.md
+    run: node scripts/generate.js
 
-      - name: Commit Changes
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+  - name: Commit Changes
+    run: |
+      git config user.name "github-actions[bot]"
+      git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add PROJECTS.md
+      git add PROJECTS.md
 
-          if ! git diff --staged --quiet; then
-            git commit -m "chore: update PROJECTS.md"
-            git push
-          fi
+      if ! git diff --staged --quiet; then
+        git commit -m "chore: update PROJECTS.md"
+        git push
+      fi
