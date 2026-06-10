@@ -2,6 +2,8 @@
 
 > The Dictionary of Open Source.
 
+<img width="1456" height="611" alt="OpenSourceHub" src="https://github.com/user-attachments/assets/4597d85b-d191-48fe-9178-7f226f61c346" />
+
 Discover the best open-source software for every category.
 
 OpenSourceHub is a community-driven directory that helps developers, founders, students, and businesses discover production-ready open-source projects without spending hours searching GitHub.
