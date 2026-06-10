@@ -23,6 +23,28 @@ From AI and Developer Tools to Databases, Authentication, CMS, DevOps, Self-Host
 
 ---
 
+## 📚 Browse OpenSourceHub
+
+Explore all categorized projects:
+
+👉 [View All Projects](./PROJECTS.md)
+
+---
+
+Projects are organized into:
+
+- 🤖 AI
+- 💻 Developer Tools
+- 🔐 Authentication
+- 🗄️ Databases
+- ☁️ DevOps
+- 📊 Analytics
+- 📦 CMS
+- 💳 Payments
+- 🏢 CRM
+- 🛡️ Security
+- 🏠 Self Hosted
+
 ## 📚 Categories
 
 Explore production-ready open-source software across multiple categories.
