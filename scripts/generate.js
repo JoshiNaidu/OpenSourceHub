@@ -75,4 +75,4 @@ fs.writeFileSync(OUTPUT_FILE, markdown);
 
 console.log(
   `✅ Generated PROJECTS.md (${totalProjects} projects across ${files.length} categories)`
-);
+); 
