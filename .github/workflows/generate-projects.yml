@@ -3,7 +3,7 @@ name: Generate Project Catalog
 on:
 push:
 paths:
-- "data/**"
+- 'data/**'
 
 permissions:
 contents: write
@@ -20,7 +20,7 @@ steps:
   - name: Setup Node.js
     uses: actions/setup-node@v4
     with:
-      node-version: "20"
+      node-version: 20
 
   - name: Generate PROJECTS.md
     run: node scripts/generate.js
@@ -32,7 +32,8 @@ steps:
 
       git add PROJECTS.md
 
-      git diff --staged --quiet || git commit -m "chore: update PROJECTS.md"
-
-      git push
+      if ! git diff --staged --quiet; then
+        git commit -m "chore: update PROJECTS.md"
+        git push
+      fi
 ```
